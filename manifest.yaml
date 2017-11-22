@@ -3,5 +3,5 @@ owners:
 - name: Appscode
   email: team@appscode.com
 dependencies:
-- package: github.com/packsh/tasty-kube
+- package: github.com/a8uhnf/test-yml
   branch: master
