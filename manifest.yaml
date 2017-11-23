@@ -4,4 +4,4 @@ owners:
   email: team@appscode.com
 dependencies:
 - package: github.com/a8uhnf/test-yml
-  branch: master
+  branch: test-dep
